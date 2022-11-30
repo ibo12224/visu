@@ -5,6 +5,14 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visu", "visu\visu.csproj", "{47E00C00-1304-4C9A-B3CC-C65808AE7E0F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1123", "WinFormsApp1123\WinFormsApp1123.csproj", "{47703472-59BC-46EB-A318-E28E15CCDB46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mouse", "mouse\mouse.csproj", "{7C6DC348-DFA6-4E07-89A7-96245B15334F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MousePaint", "MousePaint\MousePaint.csproj", "{52CDD59E-97EB-44AA-9D6A-859388652025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updown", "updown\updown.csproj", "{4C2B8C7A-7DFA-4264-8108-89313C34434C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{47E00C00-1304-4C9A-B3CC-C65808AE7E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E00C00-1304-4C9A-B3CC-C65808AE7E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E00C00-1304-4C9A-B3CC-C65808AE7E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47703472-59BC-46EB-A318-E28E15CCDB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47703472-59BC-46EB-A318-E28E15CCDB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47703472-59BC-46EB-A318-E28E15CCDB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47703472-59BC-46EB-A318-E28E15CCDB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6DC348-DFA6-4E07-89A7-96245B15334F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6DC348-DFA6-4E07-89A7-96245B15334F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6DC348-DFA6-4E07-89A7-96245B15334F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6DC348-DFA6-4E07-89A7-96245B15334F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CDD59E-97EB-44AA-9D6A-859388652025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CDD59E-97EB-44AA-9D6A-859388652025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CDD59E-97EB-44AA-9D6A-859388652025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CDD59E-97EB-44AA-9D6A-859388652025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2B8C7A-7DFA-4264-8108-89313C34434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2B8C7A-7DFA-4264-8108-89313C34434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2B8C7A-7DFA-4264-8108-89313C34434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2B8C7A-7DFA-4264-8108-89313C34434C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
