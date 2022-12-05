@@ -118,7 +118,7 @@
             this.listView1.LargeImageList = this.imageList1;
             this.listView1.Location = new System.Drawing.Point(75, 228);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(100, 136);
+            this.listView1.Size = new System.Drawing.Size(112, 136);
             this.listView1.SmallImageList = this.imageList1;
             this.listView1.TabIndex = 6;
             this.listView1.UseCompatibleStateImageBehavior = false;
