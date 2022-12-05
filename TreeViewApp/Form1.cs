@@ -14,5 +14,26 @@ namespace TreeViewApp {
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            treeView1.ExpandAll(); // 트리 뷰의 모든 노드를 펼침
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "" && treeView1.SelectedNode != null) {
+                // 선택된 노드가 있으면, 그 노드의 자식 노드로 추가한다.
+                treeView1.SelectedNode.Nodes.Add(new TreeNode(textBox1.Text, 1, 1));
+                textBox1.Text = "";
+                textBox1.Focus(); // 키 입력 가능
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            treeView1.Nodes.Remove(treeView1.SelectedNode)
+        }
     }
 }
