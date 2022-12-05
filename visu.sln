@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp11233241", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list view", "list view\list view.csproj", "{08C97D37-71E5-448F-BEFC-650B6393853E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_Code", "ListView_Code\ListView_Code.csproj", "{70099AFF-18CA-4F43-9664-23534990B0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{08C97D37-71E5-448F-BEFC-650B6393853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C97D37-71E5-448F-BEFC-650B6393853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C97D37-71E5-448F-BEFC-650B6393853E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70099AFF-18CA-4F43-9664-23534990B0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70099AFF-18CA-4F43-9664-23534990B0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70099AFF-18CA-4F43-9664-23534990B0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70099AFF-18CA-4F43-9664-23534990B0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
