@@ -7,7 +7,7 @@ namespace WinFormsApp1 {
         private int index = 0;
         private void timer1_Tick(object sender, EventArgs e)
         {
-            index %= imageList1.Images.Count;
+            index %= imageList1.Images.Count;//
             label1.Image = imageList1.Images[index++];
 
         }
