@@ -34,6 +34,7 @@ namespace TreeViewApp {
         {
 
             treeView1.Nodes.Remove(treeView1.SelectedNode)
+        ;
         }
     }
 }
