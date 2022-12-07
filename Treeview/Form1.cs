@@ -22,7 +22,7 @@ namespace Treeview {
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            textBox1.Text = treeView1.SelectedNode.Text;
+            textBox1.Text = treeView1.SelectedNode.Text;//
             textBox2.Text = (treeView1.SelectedNode.Parent == null) ?
             "" : treeView1.SelectedNode.Parent.Text;
             textBox3.Text = (treeView1.SelectedNode.PrevNode == null) ?
