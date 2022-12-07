@@ -4,17 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{132F756E-A54B-4DFD-B284-F35698BA81F0}</ProjectGuid>
+    <ProjectGuid>{DDA75C61-736C-4277-BFD5-72A9D43D4971}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dbtest_access</RootNamespace>
-    <AssemblyName>dbtest_access</AssemblyName>
+    <RootNamespace>SlesMIS</RootNamespace>
+    <AssemblyName>SlesMIS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
