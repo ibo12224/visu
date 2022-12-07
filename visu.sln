@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treeview_control1", "treevi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spinup", "spinup\spinup.csproj", "{C26DAFEB-A410-4A29-9F74-B308C35A277D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picdrawing", "picdrawing\picdrawing.csproj", "{FDA93FC1-9839-4552-BDD4-4068C6A6A2D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA93FC1-9839-4552-BDD4-4068C6A6A2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA93FC1-9839-4552-BDD4-4068C6A6A2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA93FC1-9839-4552-BDD4-4068C6A6A2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA93FC1-9839-4552-BDD4-4068C6A6A2D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
