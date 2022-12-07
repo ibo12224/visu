@@ -35,7 +35,7 @@ namespace treeview_control1 {
             treeView1.ExpandAll();
 
         }
-
+        //
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(treeView1.SelectedNode.FullPath.ToString());
