@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_Code", "ListView_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewApp", "TreeViewApp\TreeViewApp.csproj", "{A40BDDD6-3E9A-496E-BDF4-1983094143E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treeview", "Treeview\Treeview.csproj", "{D39E08EE-659B-40AC-BED4-F1CE0D017F39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A40BDDD6-3E9A-496E-BDF4-1983094143E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40BDDD6-3E9A-496E-BDF4-1983094143E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40BDDD6-3E9A-496E-BDF4-1983094143E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39E08EE-659B-40AC-BED4-F1CE0D017F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39E08EE-659B-40AC-BED4-F1CE0D017F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39E08EE-659B-40AC-BED4-F1CE0D017F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39E08EE-659B-40AC-BED4-F1CE0D017F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
