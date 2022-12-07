@@ -40,5 +40,10 @@ namespace treeview_control1 {
         {
             MessageBox.Show(treeView1.SelectedNode.FullPath.ToString());
         }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
+        }
     }
 }
