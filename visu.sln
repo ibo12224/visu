@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treeview", "Treeview\Treevi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treeview_control1", "treeview_control1\treeview_control1.csproj", "{87238920-86F3-456C-88EC-7AEFB01B12A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spinup", "spinup\spinup.csproj", "{C26DAFEB-A410-4A29-9F74-B308C35A277D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{87238920-86F3-456C-88EC-7AEFB01B12A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87238920-86F3-456C-88EC-7AEFB01B12A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87238920-86F3-456C-88EC-7AEFB01B12A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26DAFEB-A410-4A29-9F74-B308C35A277D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
